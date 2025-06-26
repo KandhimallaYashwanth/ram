@@ -1,1 +1,1 @@
-print("age"):
+print("age")
